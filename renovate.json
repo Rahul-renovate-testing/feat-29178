@@ -5,5 +5,5 @@
       "prPriority": -1
     }
   ],
-  "prHourlyLimit": 3
+  "prHourlyLimit": -10
 }

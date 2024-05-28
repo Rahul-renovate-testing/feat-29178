@@ -3,11 +3,7 @@
     {
       "matchPackageNames": ["lodash"],
       "prPriority": -1
-    },
-    {
-      "matchPackageNames": ["react"],
-      "prPriority": 5
     }
   ],
-  "prHourlyLimit": 2
+  "prHourlyLimit": 3
 }

@@ -1,0 +1,9 @@
+{
+  "packageRules": [
+    {
+      "matchPackaheNames": ["lodash"],
+      "prPriority": -1
+    }
+  ],
+  "prHourlyLimit": 1
+}
